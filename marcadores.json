@@ -1,0 +1,46 @@
+{
+    "marcadores": [
+        {
+            "name": "Mariano Sgherza",
+            "address": "Del Gato 286",
+            "tel": "11-4194-6545",
+            "coordenadas": "-34.603562, -58.381700",
+            "categoria": "comercial"
+        },
+        {
+            "name": "Mariano Sgherza",
+            "address": "Del Gato 266",
+            "tel": "11-4194-6545",
+            "coordenadas": "-33.901121,-57.999999",
+            "categoria": "residencial"
+        },
+        {
+            "name": "Mariano Sgherza",
+            "address": "Del Gato 266",
+            "tel": "11-4194-6545",
+            "coordenadas": "-35,-58",
+            "categoria": "mixta"
+        },
+        {
+            "name": "Mariano Sgherza",
+            "address": "Del Gato 267",
+            "tel": "43629967",
+            "coordenadas": "-35,-57",
+            "categoria": "residencial"
+        },
+        {
+            "name": "Mariano Suarez",
+            "address": "Moreno 1748",
+            "tel": "11-4194-0000",
+            "coordenadas": "-35,-55",
+            "categoria": "comercial"
+        },
+        {
+            "name": "Carlos P\u00e9rez",
+            "address": "Av. Corrientes 1000",
+            "tel": "436299777",
+            "coordenadas": "-34.80000,-57",
+            "categoria": "comercial"
+        }
+    ]
+}
