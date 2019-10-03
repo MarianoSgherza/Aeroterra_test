@@ -1,30 +1,30 @@
 {
     "marcadores": [
         {
-            "name": "Mariano Sgherza",
+            "name": "Mariano",
             "address": "Del Gato 286",
-            "tel": "11-4194-6545",
+            "tel": "11-6545",
             "coordenadas": "-34.603562, -58.381700",
             "categoria": "comercial"
         },
         {
-            "name": "Mariano Sgherza",
-            "address": "Del Gato 266",
-            "tel": "11-4194-6545",
+            "name": "Mariano",
+            "address": "Del Ramo 60",
+            "tel": "11-6545",
             "coordenadas": "-33.901121,-57.999999",
             "categoria": "residencial"
         },
         {
-            "name": "Mariano Sgherza",
-            "address": "Del Gato 266",
+            "name": "Mario SRL",
+            "address": "Chiclana 5066",
             "tel": "11-4194-6545",
             "coordenadas": "-35,-58",
             "categoria": "mixta"
         },
         {
-            "name": "Mariano Sgherza",
-            "address": "Del Gato 267",
-            "tel": "43629967",
+            "name": "Empresa SA",
+            "address": "Av Gelly 267",
+            "tel": "4362996007",
             "coordenadas": "-35,-57",
             "categoria": "residencial"
         },
